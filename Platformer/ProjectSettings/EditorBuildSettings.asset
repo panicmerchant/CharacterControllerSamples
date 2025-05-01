@@ -9,4 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Platformer.unity
     guid: 8a3f7e21d2f4e79418f321f6fbee10b3
   m_configObjects:
-    com.unity.input.settings: {fileID: 11400000, guid: 7f47cca94c9d75843932abe26966e773, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 92655118288857e4c8c6c17b384ca819, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2012d41496e881e43ab94478757ed527, type: 3}
+  m_UseUCBPForAssetBundles: 0
